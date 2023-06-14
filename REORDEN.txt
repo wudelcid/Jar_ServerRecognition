@@ -1,0 +1,3 @@
+java -jar -Xmx2g -Xms2g -XX:+UseG1GC wcfactions-1.0-jar-with-dependencies.jar TDD_MAESTRO CLASIFICAR
+
+java -jar -Xmx2g -Xms2g -XX:+UseG1GC target\wcfactions-1.0-jar-with-dependencies.jar  PRS_MAESTRO DUPLICADO 200 500
